@@ -53,16 +53,7 @@ A szövegek legyenek rövidek, lényegre törők, saját magad fogalmazd meg, eg
 - Milyen adókat, szolgáltatásokat kell teljesítenem?
 - Mitől félek? (háború, éhínség, járvány, büntetés stb.)
 
-### 7. Viselkedés és emberi kapcsolatok
-
-- Hogyan viselkedünk egymással?
-- Milyen alá- és fölérendeltségi viszonyok vannak?
-- Mit jelent a becsület, hűség, vallás szerepe?
-
-### 8. Szabályok és hagyományok
-
-- Milyen írott vagy íratlan szabályok szerint élünk?
-- Milyen szokásaink vannak?
+###0
 
 ## Fogalomtár
 

@@ -1,0 +1,13 @@
+.elrendezes {
+    border: 1px black solid;
+    padding: 10px;
+    grid-template-columns: 1fr 1fr;
+    display: grid;
+
+}
+@media screen and (max-width:600px) {
+    article {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}

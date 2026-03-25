@@ -2,10 +2,16 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr ;
     padding: 10px;
-    
 }
 
 .kartya{
-    border: 1px black solid;    
+    border: 1px yellow solid
 }
 
+@media screen and (max-width:600px) {
+
+    .fogalomtar{
+        display: grid;
+        grid-template-columns: 1fr ;
+        
+    }

@@ -1,0 +1,22 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr; 
+  gap: 10px;
+}
+
+@media (min-width: 768px) {
+  .container {
+    grid-template-columns: 1fr 1fr; 
+  }
+}
+
+.container {
+    display: flex; 
+    align-items: center; 
+    gap: 20px; 
+}
+
+.my-image {
+    max-width: 150px; 
+    height: auto;
+}

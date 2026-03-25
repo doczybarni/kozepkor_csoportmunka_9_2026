@@ -11,6 +11,10 @@ a:hover{
     background-color: red;
 }
 
-@media screen () {
-    
+@media screen and (max-width:600px) {
+
+    a{
+        display: grid;
+        grid-template-columns: 1fr ;
+    }
 }

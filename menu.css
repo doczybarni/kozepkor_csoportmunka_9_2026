@@ -1,8 +1,8 @@
 a{
- display: grid;
+ 
  border: 1px black solid;
- grid-template-columns: 1fr;
  padding: 1px;
  border-radius: 10%;
  max-width: 300px;
+
 }

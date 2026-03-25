@@ -23,3 +23,9 @@ main {
 h2 {
     font-weight: bold;
 }
+@media screen and (max-width:600px) {
+    article {
+        display: grid;
+        grid-template-columns: 100%;
+    }
+}    

@@ -14,6 +14,7 @@
     display: flex; 
     align-items: center; 
     gap: 20px; 
+}
 
 .my-image {
     max-width: 150px; 

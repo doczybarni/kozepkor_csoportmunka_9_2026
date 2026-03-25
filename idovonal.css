@@ -1,22 +1,35 @@
+
 .container {
-  display: grid;
-  grid-template-columns: 1fr; 
-  gap: 10px;
+  display: flex;
+  flex-direction: row; 
+  align-items: center; 
+  gap: 20px; 
 }
 
-@media (min-width: 768px) {
+.image {
+  max-width: 300px; 
+  height: auto;
+}
+
+
+@media screen and (max-width: 768px) {
   .container {
-    grid-template-columns: 1fr 1fr; 
+    flex-direction: column; 
+    text-align: center;
+  }
+
+  .image {
+    max-width: 100%; 
   }
 }
 
-.container {
-    display: flex; 
+.idovonalbejegyzes {
+    display: flex;
     align-items: center; 
     gap: 20px; 
 }
 
-.my-image {
-    max-width: 150px; 
+.idovonalbejegyzes img {
+    width: 200px; 
     height: auto;
 }
